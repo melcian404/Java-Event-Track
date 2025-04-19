@@ -21,11 +21,17 @@ The origin of this school project is to create an Event-Tracking app that stores
 <details>
   <summary>
     Enhancement Plan
-  </summary>
+  </summary> 
+When first creating this project, I spent too much time designing the UI and didn’t end up with a fully functioning project. It incorporated the beginning of a database, but it was very rudimentary and non-functional. It was disappointing not to have a finished product when I was so excited about this project. With this enhancement, I’d like to get the user databases working properly. It would be the easiest route to scrap my prior user database entirely and start fresh. This will require stripping and recreating the UserDB class, then editing the MainActivity.
 </details>
 
 <details>
   <summary>Enhancements Completed</summary>
+  
+-	Remake the entire app with better inline comments.
+-	Create a functioning database for users to create an account.
+-	Verify database was established. 
+  
 </details>
 
 <details open>
@@ -85,7 +91,6 @@ The origin of this school project is to create an Event-Tracking app that stores
 }
 ```
 </details>
-
 
 
 <details>
