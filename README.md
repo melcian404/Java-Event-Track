@@ -2,8 +2,11 @@
 
 ## Original Project
 
-<details>
-  <summary> ADD PHOTO Welcome Screen </summary>
+<details open>
+  <summary>Create Account Screen</summary>
+
+  ![Original Scene](https://github.com/melcian404/melcian404.github.io/blob/main/docs/assets/CreateAccount.PNG)
+  
 </details>
 
 <details>
@@ -95,5 +98,6 @@ This enhancement proved to be a more significant undertaking than I initially an
 <details open>
   <summary>Proof of Functioning Database</summary>
 
-  MM add photo
+  ![Original Scene](https://github.com/melcian404/melcian404.github.io/blob/main/docs/assets/ConfirmedDB.PNG)
+  
 </details>
