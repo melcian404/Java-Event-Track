@@ -14,6 +14,8 @@
 
 The origin of this school project is to create an Event-Tracking app that stores dates and times of upcoming events by allowing users to enter event details. The app displays events on the home screen in a grid view format. Users can add, remove, and edit event details. Data is stored in two database tables, one for login information and the other for event data. This project demonstrates my ability to create a locally stored SQLite database on Android. This project was completed initially using Java with Android Studio on 12/15/24.
 
+My ePortfolio included this because it will demonstrate my skills in full-stack development and databases with the Java Programming Language. It also shows my ability to use the Android Studio IDE for mobile app development and UI/UX best practices, including screen optimization, accessibility, and app flow. This will align with creating a login requirement to prevent potential vulnerabilities and ensure privacy and security.
+
 </details>
 
 ## Enhanced Project
